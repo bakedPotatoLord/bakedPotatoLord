@@ -9,3 +9,5 @@ he/him/his
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakedPotatoLord&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=bakedpotatolord&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=bakedPotatoLord&theme=radical)](https://git.io/streak-stats)
