@@ -10,8 +10,7 @@
 
 ## Languages/Technologies
 
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" width="40"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7irRJw4TGBLaVna9e4edKbdqLPydXoib0BZ1YWX4&s" alt="JavaScript" width="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" width="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7irRJw4TGBLaVna9e4edKbdqLPydXoib0BZ1YWX4&s" alt="JavaScript" width="40"/>
 <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="nodeJS" width="40"/>
 <img src="https://www.svgrepo.com/download/354126/npm-icon.svg" alt="npm" width="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" alt="VueJS" width="40"/>
