@@ -2,9 +2,9 @@
 
 <font size="3">
   <ul>
-    <li>JS/TS Developer</li>
-    <li>Boy Scout</li>
-    <li>Warhammer 40,000 Enthusiast</li>
+    <li>🖥️Freelance software dev</li>
+    <li>🩸💀Warhammer 40k enthusiast</li>
+    <li>😎🤖 FRC nerd</li>
   </ul>
 </font>
 
