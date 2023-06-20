@@ -15,7 +15,7 @@
 <img src="https://www.svgrepo.com/download/354126/npm-icon.svg" alt="npm" width="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" alt="VueJS" width="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/>
-<img src="https://apprecs.org/gp/images/app-icons/300/86/com.sumitgouthaman.brainfuck_android.jpg" alt="BrainFuck (Programming Panguage)" width="40"/>
+<img src="https://github.com/bakedPotatoLord/bakedPotatoLord/assets/93680829/1cf6d7ba-1b18-44ef-90d9-2c7857429bfa" alt="BrainFuck (Programming Language)" width="40"/>
 
 
 
