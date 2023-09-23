@@ -12,11 +12,13 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" width="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7irRJw4TGBLaVna9e4edKbdqLPydXoib0BZ1YWX4&s" alt="JavaScript" width="40"/>
 <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="nodeJS" width="40"/>
+<img src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" alt="Bun Logo PNG Vector (SVG) Free Download" width="40"/>
 <img src="https://www.svgrepo.com/download/354126/npm-icon.svg" alt="npm" width="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" alt="VueJS" width="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/>
 <img src="https://github.com/bakedPotatoLord/bakedPotatoLord/assets/93680829/1cf6d7ba-1b18-44ef-90d9-2c7857429bfa" alt="BrainFuck (Programming Language)" width="40"/>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino Logo PNG Transparent (1) – Brands Logos" width="40"/>
+
 
 
 
