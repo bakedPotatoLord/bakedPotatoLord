@@ -36,4 +36,7 @@
 <a href="https://www.linkedin.com/in/josiah-hamm-36208625b/">
 <img src="https://www.svgrepo.com/show/303207/linkedin-icon-logo.svg" alt="linkedin" width="40"/>
 <a>
+<a href="https://www.instagram.com/baked_potato_lord/">
+<img src="https://github.com/bakedPotatoLord/bakedPotatoLord/assets/93680829/f9fca737-5cde-4a5d-b730-08def208df49" alt="instagram" width="40"/>
+<a>
 
