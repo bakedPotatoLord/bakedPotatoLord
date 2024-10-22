@@ -3,7 +3,7 @@
 <font size="3">
   <ul>
     <li>🖥️Freelance software dev</li>
-    <li>🩸💀Warhammer 40k enthusiast</li>
+    <li>🛠️🎨Makerspace enjoyer</li>
     <li>😎🤖 FRC nerd</li>
   </ul>
 </font>
