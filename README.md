@@ -18,7 +18,9 @@
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/>
 <img src="https://github.com/bakedPotatoLord/bakedPotatoLord/assets/93680829/1cf6d7ba-1b18-44ef-90d9-2c7857429bfa" alt="BrainFuck (Programming Language)" width="40"/>
 <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="Arduino Logo PNG Transparent (1) – Brands Logos" width="40"/>
-<img src="https://github.com/user-attachments/assets/57755b49-73d2-4e5a-8405-4aa5b154a697" width="40" />
+<img src="https://github.com/user-attachments/assets/57755b49-73d2-4e5a-8405-4aa5b154a697" height="40" />
+<img src="https://github.com/user-attachments/assets/e23a638c-f348-48e3-b542-9060b9e858ce" width="40" />
+
 
 
 
