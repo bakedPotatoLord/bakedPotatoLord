@@ -12,7 +12,7 @@
 
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="TypeScript" width="40"/> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7irRJw4TGBLaVna9e4edKbdqLPydXoib0BZ1YWX4&s" alt="JavaScript" width="40"/>
 <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="nodeJS" width="40"/>
-<img src="https://seeklogo.com/images/B/bun-logo-A876328A1F-seeklogo.com.png" alt="Bun Logo PNG Vector (SVG) Free Download" width="40"/>
+<img src="https://github.com/user-attachments/assets/a5e3c77f-cbad-4208-bf8c-017c5bf27492" alt="Bun Logo PNG Vector (SVG) Free Download" width="40"/>
 <img src="https://www.svgrepo.com/download/354126/npm-icon.svg" alt="npm" width="40"/>
 <img src="https://cdn.iconscout.com/icon/free/png-256/vue-282497.png" alt="VueJS" width="40"/>
 <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java" width="40"/>
